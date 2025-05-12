@@ -1,2 +1,2 @@
 # projeler
-kişisel bir hesaptır
+
